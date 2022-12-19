@@ -1,0 +1,132 @@
+Summary:
+Motivated professional offering a diverse skill set in both Scientific Research, Software Engineering and the
+intersection of the two. Adds value to any organization in need of great collaboration, interpersonal and multitasking
+abilities. Meets tight deadlines. Rapid learner. Striving for nothing less than excellence in the endeavors I embark on
+
+Leadership Experience:
+
+Founder, President, Union Neurotech (www.unionneurotech.com) 09/2020 - Current
+Co - President, Union Rocket Club 09/2020 - 06/2022
+Council Chair, Minverva Program 03/2020 - 03/2022
+Board Member, LASO (Latin American Student Organization) 09/2021 - 01/2022
+Founder, President, MARS (Mamaroneck Aeronautics and Rocketry Society) 
+
+Education:
+Union College: Bachelors of Science Double - Neuroscience / Computer Science - 09/2019 to 06/2023
+
+Skills:
+
+Software Development and Design
+Design and Operation of Brain Computer Interfaces
+Signal Processing
+Teamwork, Collaboration, Team Leadership
+Data Collection and Analysis
+Technology Repair
+Artificial Intelligence and Machine Learning
+Scientific Research, Technical Writing
+Operating Systems: Windows, MacOS, Linux
+Fluent in: Python, Java, Javascript, C, C++, R
+High Performance Computing / Parallel Computing
+Graphic Design
+Computational Neuroscience
+GIT and Version Control tools
+Video Production and Editing (Adobe, Vegas Pro)
+Task Automation
+Multitasking and Organization
+Project Planning
+Robotics Software Design
+
+Work Experience:
+
+National Center for Adapative Neurotechnologies
+Neurotechnology Researcher
+Albany, NY
+November 2021
+Present
+Working on research in the intersection between Neuroscience, Computer Science and Engineering utilizing state of the art methods and equipment for assistive and
+adaptive Neurotechnologies. Optimized experimental Operant Conditioning System for improving muscle control in people who have neuromuscular disorders. 
+Developed software suite for conducting analysis on large datasets of electrophysiological activity with a focus in Evoked Potentials data for the purpose of optimizing 
+assistive communication Brain Computer Interface. Utilized and further developed skills in Scientific Writing, Software Engineering, Signal Processing, Interprocess Communication, 
+Documentation, and Research Methods in Neuroscience.
+
+General Electric
+Digital Technology Intern
+Schenectady, NY
+June 2022
+August 2022
+Developed multiple systems for automating data analysis pipelines in GE Vernova's Gas Power branch; paticularly with their Communications data.
+Developed a software suite for automatically conducting analytics on data utilizing Python, Numpy, Matplotlib, Scipy and Pandas to name a few.
+Successfully wrote an automation suite that demonstrated the capacity to optimize spending and save up to $1.2 Million in costs across GE Vernova Gas Power.
+Utilized and further developed skills in Software Engineering, Signal Processing, Financial Analytics, Data Analytics, Task Automation, Cybersecurity.
+
+Union College Maker Labs
+Student Technician
+Schenectady, NY
+September 2022
+Present
+Assist with and maintain Engineering Machine Shop at Union College for Students and Faculty at Union College.
+Utilized and further developed skills in Engineering Methods, 3D Printer Operation, Power Tools Operation, Mill Operation, Lathe Operation, Machine Shop Safety Methods.
+
+Union College CAMLab
+Student Research / Technician
+Schenectady, NY
+September 2021
+June 2022
+Developed tools for analyzing data in Psychology Research. Utilized experience in software engineering to parse through large research datasets.
+Developed a remote-capable assessment tool for creativity. 
+Utilized and further developed skills in Data Analytics, Research Methods in Psychology, Web Development, Task Automation. 
+
+The BCI Guys
+Content and Video Production
+Remote
+October 2020
+March 2021
+Contributed to content in the research and content writing stage of the Foundations in Neurotechnology course by The BCI Guys and NeurotechX.
+Later contributed to the video production portion of the online course. Utilized and expanded upon skills with Adobe Premire, Scientific Communication
+
+Union College Feller Lab
+Student Research / Technician
+Schenectady, NY
+March 2021
+June 2021
+Assisted laboratory staff with development of technical components of Biology Research. Utilized AMIRA software for CT Imaging of Invertebrate organisms.
+Utilized and further developed skills in Research and Methods in Biology Research, MicroCT Imaging, Scientific Writing and Documentation, Methods and saftey in the Wet Lab setting.
+
+Union College ITS
+Student Technician
+Schenectady, NY
+September 2020
+March 2021
+Provided technical assistance to students and faculty at Union College through the IT Services Department.
+Utilized and further developed skills in IT Services, Technical Support and Repair, Customer Service, Communications.
+
+XP0 Dynamics - Self Employed
+Electronics Repair Technician
+Larchmont, NY
+September 2019
+March 2020
+Managed self run Electronics Repair Business. Repaired technology such as computers, phones and appliances for clients. Utilized and further developed skills in Customer Service, Windows, MacOS, Linux, Electronics Repair and troubleshooting.
+
+Mobile Rescue
+Electronics Repair Technician
+Larchmont, NY
+March 2019
+June 2020
+Repaired Computers and Mobile Devices for customers until the business closed in Summer of 2019. Utilized and further developed skills in Customer Service, Windows, MacOS, Linux, Electronics Repair and troubleshooting.
+
+Ro Lab CUNY
+Research Assistant Intern
+New York, NY
+June 2018
+September 2018
+Assisted laboratory staff with equipment, procedures and data analytics regarding Brain Computer Interfaces and psychology applications of EEG. 
+Assisted with TMS equipment and EEG applications for phosphenes stimulation and observation of Alpha activity relating to attention.
+Utilized and further developed skills in Research Methods in Psychology, Electrophysiological data, Transcranial Magnetic Stimulation, EEG Setup and Recording, Communication.
+
+Gulko Lab Mount Sinai
+Research Assistant Intern
+New York, NY
+June 2017
+August 2017
+Assisted Laboratory Staff with equipment and lab procedures regarding Rheumatology, Protein Synthesis, Plasmid Vector Cloning, and Research in Rheumatoid Arthritis.
+Utilized and further developed skills in Research Methods in Biological Sciences, Laboratory Procedures and Safety, Plasmid Vector Cloning, Wet Lab Experience.
