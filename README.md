@@ -23,7 +23,7 @@ A Machine Learning Based Resume Matcher, to compare Resumes with Job Description
 Create a score based on how good/similar a resume is to the particular Job Description.\n
 Documents are sorted based on Their TF-IDF Scores (Term Frequency-Inverse Document Frequency)
 
-Check the live version [here](https://share.streamlit.io/srbhr/naive-resume-matching/app.py). _The instance might sleep if not used in a long time, so in such cases drop me a mail or fork this repo and launch your own instance at [Streamlit's Cloud Instance](https://streamlit.io/)_
+Check the live version [here](https://leonardoferrisi-naive-resume-matching-app-dl3s6j.streamlit.app/). _The instance might sleep if not used in a long time, so in such cases drop me a mail or fork this repo and launch your own instance at [Streamlit's Cloud Instance](https://streamlit.io/)_
 
 Matching Algorihms used are :-
 
